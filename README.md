@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelique-df
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript ES6, React, and C#
+- 🌱 I’m currently learning TypeSript, React.js, and C#
 - 💞️ I’m looking to collaborate on junior projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/angelique-faye/)
 
