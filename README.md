@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angelique-df
+- 👋 Hi, I’m @angeliquedf
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning TypeSript, React.js, and C#
 - 💞️ I’m looking to collaborate on junior projects
