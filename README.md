@@ -8,42 +8,32 @@
 
 ## Français
 
-Développeuse full-stack TypeScript, 3,5 ans à construire et maintenir une plateforme SaaS multi-tenant destinée aux professionnels de la finance, en contrat long terme avec Rubyx.
+**Expérience production** — 3,5 ans à construire et maintenir une plateforme SaaS multi-tenant en production pour des professionnels de la finance, en contrat long terme avec Rubyx : fonctionnalités frontend et backend en React et NestJS, APIs REST, modélisation PostgreSQL, intégration Firebase et BigQuery, diagnostic d'incidents en production.
 
-J'interviens côté frontend et backend : intégration de maquettes Figma en composants React, conception et maintenance d'APIs REST avec NestJS, reprise de bases de code existantes. Je travaille également en marque blanche pour des agences web et des studios digitaux.
+**Aujourd'hui** — Indépendante. J'interviens en marque blanche pour des agences web et des studios digitaux : intégration de maquettes Figma en composants React et Next.js, conception et maintenance d'APIs NestJS, reprise de bases de code existantes.
 
-**Stack**
+**Pour les agences**
 
-- Frontend — React, Next.js, Astro, TypeScript, CSS moderne, accessibilité
-- Backend — NestJS, Node.js, APIs REST, PostgreSQL, Sequelize
-- Données — PostgreSQL, BigQuery, Firebase
-- Qualité — tests automatisés, Core Web Vitals, Opquast, CI/CD, Docker
-
-**Ce que je fais**
-
-- Intégration responsive et fidèle à la maquette
+- Intégration responsive et fidèle à la maquette, optimisée Core Web Vitals
 - Conception, refactoring et maintenance d'APIs REST
-- Diagnostic et résolution d'incidents en production
-- Prise en main rapide d'un dépôt existant, dans vos conventions
+- Diagnostic et résolution d'incidents sur un projet existant
+- Prise en main rapide de votre dépôt, dans vos conventions, en marque blanche
+
+**Stack** — React, Next.js, Astro, TypeScript, NestJS, Node.js, PostgreSQL, Sequelize, BigQuery, Firebase, Docker, CI/CD. Tests automatisés, accessibilité (Opquast).
 
 ---
 
 ## English
 
-Full-stack TypeScript developer, 3.5 years building and maintaining a multi-tenant SaaS platform for financial professionals, on a long-term contract with Rubyx.
+**Production experience** — 3.5 years building and maintaining a production multi-tenant SaaS platform for financial professionals, on a long-term contract with Rubyx: frontend and backend features in React and NestJS, REST APIs, PostgreSQL modelling, Firebase and BigQuery integrations, production incident diagnosis.
 
-I work across frontend and backend: turning Figma designs into React components, building and maintaining REST APIs with NestJS, and picking up existing codebases. I also work white-label for web agencies and digital studios.
+**Today** — Independent. I work white-label with web agencies and digital studios: turning Figma designs into React and Next.js components, building and maintaining NestJS APIs, picking up existing codebases.
 
-**Stack**
+**For agencies**
 
-- Frontend — React, Next.js, Astro, TypeScript, modern CSS, accessibility
-- Backend — NestJS, Node.js, REST APIs, PostgreSQL, Sequelize
-- Data — PostgreSQL, BigQuery, Firebase
-- Quality — automated testing, Core Web Vitals, Opquast, CI/CD, Docker
-
-**What I do**
-
-- Responsive, pixel-faithful integration from design files
+- Responsive, pixel-faithful integration, optimised for Core Web Vitals
 - REST API design, refactoring and maintenance
-- Production incident diagnosis and resolution
-- Fast onboarding into an existing repo, following your conventions
+- Incident diagnosis and resolution on an existing project
+- Fast onboarding into your repo, following your conventions, white-label
+
+**Stack** — React, Next.js, Astro, TypeScript, NestJS, Node.js, PostgreSQL, Sequelize, BigQuery, Firebase, Docker, CI/CD. Automated testing, accessibility (Opquast).
